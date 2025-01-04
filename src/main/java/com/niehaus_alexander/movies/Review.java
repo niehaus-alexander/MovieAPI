@@ -22,4 +22,19 @@ public class Review {
     public Review(String body) {
         this.body = body;
     }
+    public ObjectId getId() {
+        return id;
+    }
+
+    // Getter for the 'body' field
+    public String getBody() {
+        return body;
+    }
+    @Override
+    public String toString() {
+        return "Review{" +
+                "id=" + id +
+                ", body='" + body + '\'' +
+                '}';
+    }
 }
