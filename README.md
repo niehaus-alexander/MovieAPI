@@ -14,6 +14,6 @@ This **Movie API** is a result of my learning journey while following the **Spri
   - Upload reviews for movies.
 
 ### Frontend Repository
-The frontend for this project is built using **React Bootstrap** and can be found [here](<frontend-repo-url>).
+The frontend for this project is built using **React Bootstrap** and can be found [here](https://github.com/niehaus-alexander/moviesApi-Frontend)).
 
 Stay tuned for updates as I continue to build and expand this project!  
